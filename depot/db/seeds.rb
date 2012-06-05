@@ -17,7 +17,7 @@ Product.create(title: 'CoffeeScript',
 	shows you how to hold onto all the power and flexibility of JavaScript
 	while writing clearer, cleaner, and safer code.
       </p>},
-  image_url:   'wd4d.jpg',    
+  image_url:   'cs.jpg',    
   price: 36.00)
 # . . .
 Product.create(title: 'Programming Ruby 1.9',
